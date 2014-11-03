@@ -1,6 +1,9 @@
 #include <ASTC_notes.h>
 #include <ASTC_tune.h>
+
+/* use one or the other */
 #include <ASTC_tune_jinglebells.h>
+//#include <ASTC_tune_rudolph.h>
 
 #define SING
 
