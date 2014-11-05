@@ -1,0 +1,3 @@
+/schematics/*.s#*
+/schematics/*.b#*
+/schematics/*.l#*
